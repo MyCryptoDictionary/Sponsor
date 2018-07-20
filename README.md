@@ -40,9 +40,11 @@ Summary of What MyCryptoDictionary App Has Achieved So Far!
 
 '
 
-#Why Raise Fund For The Project?
-
+Why Raise Fund For The Project?
+-
 I believe one of the benefit crypto has brought is removing middleman and making the world accessible in a click in a trustless decentralized environment. Thus, have decided to put this to test and possibly been able to prove it to the world if this first of its kind fundraising succeeds. That cryptocurrency gives avenue not just to financial, health and other sectors but also facilitate getting fund for startups with visible and viable product/service (online or offline) anywhere in the world.
 
 I have the following to be achieved if this fundraising succeeds;
+
+
 
