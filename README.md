@@ -44,7 +44,22 @@ Why Raise Fund For The Project?
 -
 I believe one of the benefit crypto has brought is removing middleman and making the world accessible in a click in a trustless decentralized environment. Thus, have decided to put this to test and possibly been able to prove it to the world if this first of its kind fundraising succeeds. That cryptocurrency gives avenue not just to financial, health and other sectors but also facilitate getting fund for startups with visible and viable product/service (online or offline) anywhere in the world.
 
-I have the following to be achieved if this fundraising succeeds;
+I have the following to be achieved if this fundraising succeeds for the next phase of the project;
+
+The project started December 10th, 2017 (7months ago) and have singlehandedly run the development from domain to web/app design/development, crypto terms research and updating, dedicating about 5-16hours daily for the past 7 months to make make it a reality of what it is today. Thus, at this stage need to bring in more skilled hands and also build a large community around it to acheive it purpose.
+
+Have been able to have an estimate of $50,000 required for the following;
+
+1) $10,000 = Upgrade of the Web App from shared host to dedicated hosting with SSL and others to continously meetup server useage and security demand by the influx of news users in this next phase.
+
+2) $5,000 = iOS App and upgrade version of the current Android App
+
+3) $10,000 = for the team and this helps to hire atleast 5 new team members to fast track the delivery of 5,000 crypto terms/meaning
+
+4) $25,000 = Advertisement using majorly crypto ads platforms and sponsored reviews on popular crypto news/review websites.
+
+How Does The Project Gives Back To Sponsor & Cryptocommunity As A Whole?
+-
 
 
 
