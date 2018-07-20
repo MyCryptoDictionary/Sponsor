@@ -56,10 +56,34 @@ Have been able to have an estimate of $50,000 required for the following;
 
 3) $10,000 = for the team and this helps to hire atleast 5 new team members to fast track the delivery of 5,000 crypto terms/meaning
 
-4) $25,000 = Advertisement using majorly crypto ads platforms and sponsored reviews on popular crypto news/review websites.
+4) $25,000 = target of 100,000 - 250,000 user community Advertisement using majorly crypto ads platforms and sponsored reviews on popular crypto news/review websites.
 
 How Does The Project Gives Back To Sponsor & Cryptocommunity As A Whole?
 -
+
+1) This project has been TOKENIZED on WAVES Blockchain with aim to financially impact a lot of lifes of user and encourage more newbies to adopt crypto by giving 99% of the tokens free via Airdrop and other user driven activities. Thus, the more valueable this project becomes daily, the more the token hodlers earn from their token received via airdrop and other activites within and outside the project community. 
+
+2) We will also offer token buyback from the open market (exchange) with upto 50% of advertisement income monthly till about 50% of total token supply (76Billion) burnt. Advertisers will also need to purchase the token from the open exchange for ads in the App in future.
+
+3) All sponsors here with interest in making their support public will be added to our Sponsor/Partners section of the app. Also entitled to 3months ads within the app (rotated with others) for 3 months. To claim kindly send details to "Open@ mycryptodictionary.com" with sponsorship details.
+
+
+How To Contribute As Sponsor?
+-
+If you are convinced to support this project kindly do so to any of the following wallets. 
+
+WAVES: 
+
+BTC:
+ETH:
+
+BCH
+
+LTC
+
+
+
+
 
 
 
