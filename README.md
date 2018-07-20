@@ -25,5 +25,24 @@ Summary of What MyCryptoDictionary App Has Achieved So Far!
 
 <> Available in multiple languages with users able to easily translate with help of Google translate API integrated into the app
 
-<> 
+<> News section – with feeds from top blogs across the crypto world
+
+<> Android App
+
+<> Web App version (all app features are accessible directly on any Phone or PC browser making it accessible to non-app users too)
+
+<> iOS App (in view)
+
+<> Audio version for each words (in view)
+
+<> Animated illustration of terms for more understanding of crypto jargon by newbies (in view)
+
+
+'
+
+#Why Raise Fund For The Project?
+
+I believe one of the benefit crypto has brought is removing middleman and making the world accessible in a click in a trustless decentralized environment. Thus, have decided to put this to test and possibly been able to prove it to the world if this first of its kind fundraising succeeds. That cryptocurrency gives avenue not just to financial, health and other sectors but also facilitate getting fund for startups with visible and viable product/service (online or offline) anywhere in the world.
+
+I have the following to be achieved if this fundraising succeeds;
 
