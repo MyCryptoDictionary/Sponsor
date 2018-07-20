@@ -12,8 +12,12 @@ Added to it is a simplified documentation section which is to create tutorials o
 Summary of What MyCryptoDictionary App Has Been Acheived So Far!
 
 <> It is now the most used and downloaded crypto/blockchain dictionary on Android (Google Playstore)
+
 <> Rank top on "Crypto Dictionary" keyword on Playstore and "Crypto Dictionary App" on Google search
+
 <> Over 650 crypto terms and meaning added
+
 <> Available in different language with users able to easily translate with help of Google translate API integrated into the app
+
 <> 
 
