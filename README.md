@@ -11,9 +11,11 @@ It now has over 650 crypto terms and meaning accessible 100% FREE via http://MyC
 Aside from the crypto terms and meaning, the app also contains News section which aggregates news from top crypto news websites/blogs worldwide to make it easier for a newbie to keep a tab on latest happening in their obviously new world (Cryptosphere) in one app via http://MyCryptoDictionary.com/Blog.
 
 Added to it is a simplified documentation section which is to create tutorials on different crypto projects and how newbies can use their platforms even if it is their first time without difficulty. Thus, it is well structured and outlined step-by-step with text, screenshots and short segmented videos. Also free via http://MyCryptoDictionary.com/doc.
+
 '
 
 Summary of What MyCryptoDictionary App Has Achieved So Far!
+-
 
 <> It is now the most used and downloaded crypto/blockchain dictionary on Android (Google Play store)
 
