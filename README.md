@@ -1,7 +1,7 @@
 # Sponsor
-To raise fund for MyCryptoDictionary App development strictly via Crypto coins/tokens donation ONLY (no Fiat, no Presale &amp; no ICO) from selfless crypto community leaders/voices.
+To raise fund for MyCryptoDictionary (5,000 Crypto Terms/Meaning Dictionary) App development strictly via Crypto coins/tokens donation ONLY (no Fiat, no Presale &amp; no ICO) from selfless crypto community leaders/voices.
 -
-SPONSOR TERM: Minimum of $1,000 and maximum of $1,000 in Cryptocurrency ONLY (nothing less or more and no fiat - if you intend to contribute less or more crypto to this project or have partnership offer, kindly reach out via "Open@ mycryptodictionary") to support building 5,000 Crypto Terms & Meaning Dictionary App for the Crypto/Blockchain Community!
+SPONSOR TERM: Minimum of $1,000 and maximum of $1,000 in Cryptocurrency ONLY (nothing less or more and no Fiat - if you intend to contribute less or more crypto to this project or have partnership offer, kindly reach out via "Open@ mycryptodictionary") to support building 5,000 Crypto Terms & Meaning Dictionary App for the Crypto/Blockchain Community!
 -
 
 Intro To MyCryptoDictionary App Project
@@ -12,7 +12,7 @@ It now has over 650 crypto terms and meaning accessible 100% FREE via http://MyC
 
 Aside from the crypto terms and meaning, the app also contains News section which aggregates news from top crypto news websites/blogs worldwide to make it easier for a newbie to keep a tab on latest happening in their obviously new world (Cryptosphere) in one app via http://MyCryptoDictionary.com/Blog.
 
-Added to it is a simplified documentation section which is to create tutorials on different crypto projects and how newbies can use their platforms even if it is their first time without difficulty. Thus, it is well structured and outlined step-by-step with text, screenshots and short segmented videos. Also free via http://MyCryptoDictionary.com/doc.
+Added to it is a simplified documentation section which is to create tutorials on different crypto projects and how newbies can use their platforms even if it is their first time without difficulty. Thus, it is well structured and outlined step-by-step with text, screenshots and short segmented videos. Also free via http://MyCryptoDictionary.com/docs.
 
 '
 
