@@ -1,12 +1,14 @@
 # Sponsor
 To raise fund for MyCryptoDictionary App development strictly via Crypto coins/tokens donation ONLY (no Fiat, no Presale &amp; no ICO) from selfless crypto community leaders/voices.
 -
+SPONSOR TERM: Minimum and Maximum Donation of $1,000 Only to support building 5,000 Crypto Terms & Meaning Dictionary App for the Crypto/Blockchain Community!
+-
 
 Intro To MyCryptoDictionary App Project
 
 MyCryptoDictionary is born out of my desire and passion to help newbies learn and understand the new innovative language that cryptocurrency and its disruptive underlying blockchain technology have created. It is glaring that mass adoption is coming; and to help the influx of newbies, they need access to a platform with crypto lingos/jargons and guide with there meaning in a non-tech form, easier to understand and assimilate. That is simply what MyCryptoDictionary is set out to achieve. 
 
-It now has over 650 crypto terms and meaning accessible 100% FREE via http://MyCryptoDictionary.com Web/App and new terms researched and added daily till when 1,000 - 5,000 crypto terms/meaning targets will be achieved.
+It now has over 650 crypto terms and meaning accessible 100% FREE via http://MyCryptoDictionary.com Web/App and new terms researched and added daily till when 5,000 crypto terms/meaning targets will be achieved.
 
 Aside from the crypto terms and meaning, the app also contains News section which aggregates news from top crypto news websites/blogs worldwide to make it easier for a newbie to keep a tab on latest happening in their obviously new world (Cryptosphere) in one app via http://MyCryptoDictionary.com/Blog.
 
@@ -54,9 +56,9 @@ Have been able to have an estimate of $50,000 required for the following;
 
 2) $5,000 = iOS App and upgrade version of the current Android App
 
-3) $10,000 = for the team and this helps to hire atleast 5 new team members to fast track the delivery of 5,000 crypto terms/meaning
+3) $15,000 = for the team and this helps to hire atleast 5 new team members to fast track the delivery of 5,000 crypto terms/meaning
 
-4) $25,000 = target of 100,000 - 250,000 user community Advertisement using majorly crypto ads platforms and sponsored reviews on popular crypto news/review websites.
+4) $20,000 = with target to reach 100,000 - 250,000 user community via advertisement using majorly crypto ads platforms and sponsored reviews on popular crypto news/review websites/blog.
 
 How Does The Project Gives Back To Sponsor & Cryptocommunity As A Whole?
 -
@@ -68,18 +70,24 @@ How Does The Project Gives Back To Sponsor & Cryptocommunity As A Whole?
 3) All sponsors here with interest in making their support public will be added to our Sponsor/Partners section of the app. Also entitled to 3months ads within the app (rotated with others) for 3 months. To claim kindly send details to "Open@ mycryptodictionary.com" with sponsorship details.
 
 
-How To Contribute As Sponsor?
+How To Contribute As Sponsor? ------ Please don't forget the rule, Minimum of $1,000 and maximum of $1,000 in Cryptocurrency ONLY (nothing less or more and no fiat - if you intend to contribute less or more crypto to this project or have partnership offer, kindly reach out via "Open@ mycryptodictionary"). 
 -
-If you are convinced to support this project kindly do so to any of the following wallets. 
+If you are convinced to support this project kindly do so to any of the following wallets;
 
-WAVES: 
+WAVES / WAVES Tokens: 3PChkQ7JUvqKi7ZSXB3PyCDfaHkJRjemwYi
 
-BTC:
-ETH:
+BTC: 3LzC3GHSfHXVonHCmG5ZSYFe5anypouPXA
 
-BCH
+ETH / ERC Tokens: 
 
-LTC
+BCH: qpfhk3n2jdnyjc340jyewpjlhelrchv0x53a7ey8dk
+
+LTC: LNmwWrwwyquKGBv8t52oqFmU9RwnDq8PiV
+
+MONERO: 4DCx5E9pauZMF7BPPTnsP9iqVXTBV2qgTcc8pgR52GJfTkAFVLaMH8jXzkxSCjao4JbF5LAs1aUPN4tQNWXKAcY1c8GFvWxai5x2ZpJ5zd
+
+ZCASH: t1T2QCMG89DTgEQh7uWZ4TxVvJJQ7yxurwc
+
 
 
 
