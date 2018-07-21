@@ -1,7 +1,7 @@
 # Sponsor
 To raise fund for MyCryptoDictionary App development strictly via Crypto coins/tokens donation ONLY (no Fiat, no Presale &amp; no ICO) from selfless crypto community leaders/voices.
 -
-SPONSOR TERM: Minimum and Maximum Donation of $1,000 Only to support building 5,000 Crypto Terms & Meaning Dictionary App for the Crypto/Blockchain Community!
+SPONSOR TERM: Minimum of $1,000 and maximum of $1,000 in Cryptocurrency ONLY (nothing less or more and no fiat - if you intend to contribute less or more crypto to this project or have partnership offer, kindly reach out via "Open@ mycryptodictionary") to support building 5,000 Crypto Terms & Meaning Dictionary App for the Crypto/Blockchain Community!
 -
 
 Intro To MyCryptoDictionary App Project
@@ -39,6 +39,12 @@ Summary of What MyCryptoDictionary App Has Achieved So Far!
 
 <> Animated illustration of terms for more understanding of crypto jargon by newbies (in view)
 
+'
+
+Who Is Behind this Project?
+-
+Olasunkanmi Fakeye (an under 30 Entreprenuer): A Web, Digital Marketing, Cryptocurrency and Brand Consultant from Nigeria. Founder and developer of MyCryptoDictionary. More about me at http://mycryptodictionary.com/dictionary/olasunkanmi-fakeye/
+
 
 '
 
@@ -69,10 +75,11 @@ How Does The Project Gives Back To Sponsor & Cryptocommunity As A Whole?
 
 3) All sponsors here with interest in making their support public will be added to our Sponsor/Partners section of the app. Also entitled to 3months ads within the app (rotated with others) for 3 months. To claim kindly send details to "Open@ mycryptodictionary.com" with sponsorship details.
 
+'
 
 How To Contribute As Sponsor? ------ Please don't forget the rule, Minimum of $1,000 and maximum of $1,000 in Cryptocurrency ONLY (nothing less or more and no fiat - if you intend to contribute less or more crypto to this project or have partnership offer, kindly reach out via "Open@ mycryptodictionary"). 
 -
-If you are convinced to support this project kindly do so to any of the following wallets;
+If you are convinced to support this project kindly do so to any of the following wallets (I decided to use Github to prevent bad eggs phishing the MyCryptoDictionary website and misleading sponsors into donating in hackers wallet addresses. Thus, no donation should be done outside wallets listed here on Github please);
 
 WAVES / WAVES Tokens: 3PChkQ7JUvqKi7ZSXB3PyCDfaHkJRjemwYi
 
@@ -88,10 +95,37 @@ MONERO: 4DCx5E9pauZMF7BPPTnsP9iqVXTBV2qgTcc8pgR52GJfTkAFVLaMH8jXzkxSCjao4JbF5LAs
 
 ZCASH: t1T2QCMG89DTgEQh7uWZ4TxVvJJQ7yxurwc
 
+Others : You can indicate and support with your choice of coin/token if not listed above.
 
 
+Amount Raised?
+-
+When donation comes in, it will be updated here within few hours to reflect how much raised so far,
 
+WAVES / WAVES Tokens  = 0.00000000
 
+BTC                   = 0.00000000
 
+ETH / ERC Tokens      = 0.00000000 
+
+BCH                   = 0.00000000 
+
+LTC                   = 0.00000000
+
+MONERO                = 0.00000000
+
+ZCASH                 = 0.00000000
+
+Others                = 0.00000000
+
+Total Crypto raised valued in $ = $0.00000000  
+
+'
+STARTS: JULY 20th, 2018 @ 11:59AM (GMT+1) || ENDS: JULY 28th, 2018 @ 11:59PM (GMT+1)
+-
+
+'
+                                 WORD CAN NOT EXPRESS APPRECIATION TO SPONSORS ENOUGH BUT YET SAY THANK YOU!
+-
 
 
