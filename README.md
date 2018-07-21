@@ -85,7 +85,7 @@ WAVES / WAVES Tokens: 3PChkQ7JUvqKi7ZSXB3PyCDfaHkJRjemwYi
 
 BTC: 3LzC3GHSfHXVonHCmG5ZSYFe5anypouPXA
 
-ETH / ERC Tokens: 
+ETH / ERC Tokens: 0x4a3e16e57cd9e7fb7aba3a2e08e8e5efcb99bc5b
 
 BCH: qpfhk3n2jdnyjc340jyewpjlhelrchv0x53a7ey8dk
 
